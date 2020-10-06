@@ -50,3 +50,4 @@ print(c)
 a = input("请输入：")
 b = input("请输入：")
 print("字数",len(a)+len(b))
+123
